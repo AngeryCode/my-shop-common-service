@@ -1,3 +1,3 @@
-module githu.com/AngeryCode/my-shop-common-service
+module github.com/AngeryCode/my-shop-common-service
 
 go 1.22
